@@ -18,7 +18,6 @@
 ;enabled_bridges[] = RumbleBridge
 ;enabled_bridges[] = SoundcloudBridge
 ;enabled_bridges[] = Telegram
-;enabled_bridges[] = ThePirateBay
 ;enabled_bridges[] = TikTokBridge
 ;enabled_bridges[] = Twitch
 ;enabled_bridges[] = XPathBridge
